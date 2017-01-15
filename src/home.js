@@ -32,7 +32,7 @@ class App extends React.Component{
     constructor() {
         super();
         this.state = {
-field : "Heading\n=======\n\nSub-heading\n-----------\n \n### Another deeper heading\n \nParagraphs are separated\nby a blank line.\n\nLeave 2 spaces at the end of a line to do a  \nline break\n\nText attributes *italic*, **bold**, \n`monospace`, ~~strikethrough~~ .\n\nShopping list:\n\n  * beans\n  * nuts\n  * pasta\n\nNumbered list:\n\n  1. nodejs\n  2. react\n  3. express\n\n## Have great Day!\n\nMade by mndowne!"
+field : "Markdown Previewer\n==================\n\nSub-heading\n-----------\n \n### Another deeper heading\n \nParagraphs are separated\nby a blank line.\n\nLeave 2 spaces at the end of a line to do a  \nline break\n\nText attributes *italic*, **bold**, \n`monospace`, ~~strikethrough~~ .\n\nShopping list:\n\n  * beans\n  * nuts\n  * pasta\n\nNumbered list:\n\n  1. nodejs\n  2. react\n  3. express\n\n## Have great Day!\n\nMade by mndowne!"
         }; 
     }
 
